@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 运行日志
+*.log
+
+# 导出结果
+ocr_result.txt
